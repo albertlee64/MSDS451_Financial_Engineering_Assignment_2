@@ -45,6 +45,10 @@ Compared cumulative performance against the S&P 500
 
 <img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/464d544c-6278-4bc3-b6a7-daf86b5bf47d" />
 
+# AI Usage
+
+AI was used to help develop some of the code around the Monte Carlo optimization portfolio model. AI was also used to help with the Stochastic Programming approximation as I was not familiar with it. Lastly, AI was used to help with the back testing to ensure the cumulative returns were being calculated properly.
+
 # License
 
 MIT License
