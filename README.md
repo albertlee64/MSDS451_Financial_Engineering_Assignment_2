@@ -10,13 +10,6 @@ Historical price data from yfinance for BAH, NOC, PLNTR
 Risk-free rate assumed at 3%
 Max Leverage of 2.0
 
-Asset Summary Statistics:
-
-        Mean Daily Return  Annualized Return  Annualized Volatility
-Ticker                                                             
-BAH                0.0004             0.1034                 0.2841
-NOC                0.0006             0.1419                 0.2451
-PLTR               0.0032             0.8145                 0.7298
 
 <img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/f29fe503-fa33-4f2d-b5c3-cfe720158d0a" />
 
@@ -43,11 +36,7 @@ Max Sharpe and Min Risk portfolios identified
 Simulated future return scenarios from multivariate normal
 Used to approximate optimal portfolio weights under uncertainty
 
-Optimal Portfolio Weights:
-Ticker  Long-Only (Max Sharpe)  Long-Only (Min Risk)  Long-Short (Max Sharpe)  Long-Short (Min Risk)
-   BAH                  0.0070                0.3506                  -0.0546                 0.3868
-   NOC                  0.5107                0.5899                   0.6013                 0.5561
-  PLTR                  0.4823                0.0595                   0.4533                 0.0572
+<img width="468" height="87" alt="image" src="https://github.com/user-attachments/assets/342f3237-94f2-4aef-a204-a9d5ce8807f8" />
 
 # Backtesting
 
